@@ -1,0 +1,121 @@
+C:\Users\DELL\AppData\Local\Temporary Projects\GST_Project\bin\Debug\GST_Project.exe
+C:\Users\DELL\AppData\Local\Temporary Projects\GST_Project\bin\Debug\GST_Project.pdb
+C:\Users\DELL\AppData\Local\Temporary Projects\GST_Project\obj\x86\Debug\GST_Project.FrmMain.resources
+C:\Users\DELL\AppData\Local\Temporary Projects\GST_Project\obj\x86\Debug\GST_Project.Properties.Resources.resources
+C:\Users\DELL\AppData\Local\Temporary Projects\GST_Project\obj\x86\Debug\GST_Project.csproj.GenerateResource.Cache
+C:\Users\DELL\AppData\Local\Temporary Projects\GST_Project\obj\x86\Debug\GST_Project.exe
+C:\Users\DELL\AppData\Local\Temporary Projects\GST_Project\obj\x86\Debug\GST_Project.pdb
+E:\ProjectData\Final Code\GST_Project\GST_Project\obj\x86\Debug\GST_Project.exe
+E:\ProjectData\Final Code\GST_Project\GST_Project\obj\x86\Debug\GST_Project.pdb
+E:\ProjectData\Final Code\GST_Project\GST_Project\bin\Debug\GST_Project.exe
+E:\ProjectData\Final Code\GST_Project\GST_Project\bin\Debug\GST_Project.pdb
+E:\ProjectData\Final Code\GST_Project\GST_Project\obj\x86\Debug\GST_Project.FrmMain.resources
+E:\ProjectData\Final Code\GST_Project\GST_Project\obj\x86\Debug\GST_Project.Properties.Resources.resources
+E:\ProjectData\Final Code\GST_Project\GST_Project\obj\x86\Debug\GST_Project.csproj.GenerateResource.Cache
+E:\ProjectData\Final Code\GST_Project\GST_Project\obj\x86\Debug\GST_Project.Frmmaster.resources
+E:\ProjectData\Final Code\GST_Project\GST_Project\obj\x86\Debug\GST_Project.csprojResolveAssemblyReference.cache
+E:\ProjectData\Final Code\GST_Project\GST_Project\obj\x86\Debug\GST_Project.frmcustomer_rec.resources
+E:\GST_Project\GST_Project\obj\x86\Debug\GST_Project.exe
+E:\GST_Project\GST_Project\obj\x86\Debug\GST_Project.pdb
+E:\GST_Project\GST_Project\bin\Debug\GST_Project.exe
+E:\GST_Project\GST_Project\bin\Debug\GST_Project.pdb
+E:\GST_Project\GST_Project\obj\x86\Debug\GST_Project.csprojResolveAssemblyReference.cache
+E:\GST_Project\GST_Project\obj\x86\Debug\GST_Project.FrmMain.resources
+E:\GST_Project\GST_Project\obj\x86\Debug\GST_Project.frmcustomer_rec.resources
+E:\GST_Project\GST_Project\obj\x86\Debug\GST_Project.FrmMaster.resources
+E:\GST_Project\GST_Project\obj\x86\Debug\GST_Project.Properties.Resources.resources
+E:\GST_Project\GST_Project\obj\x86\Debug\GST_Project.csproj.GenerateResource.Cache
+E:\GST_Project\GST_Project\obj\x86\Debug\GST_Project.frmDealersRec.resources
+E:\GST PROJECT\GST_Project\GST_Project\obj\x86\Debug\GST_Project.exe
+E:\GST PROJECT\GST_Project\GST_Project\obj\x86\Debug\GST_Project.pdb
+C:\Users\ADMIN\Desktop\Project GST\GST_Project\GST_Project\obj\x86\Debug\GST_Project.exe
+C:\Users\ADMIN\Desktop\Project GST\GST_Project\GST_Project\obj\x86\Debug\GST_Project.pdb
+C:\Users\ADMIN\Desktop\Project GST\GST_Project\GST_Project\bin\Debug\GST_Project.exe
+C:\Users\ADMIN\Desktop\Project GST\GST_Project\GST_Project\bin\Debug\GST_Project.pdb
+C:\Users\ADMIN\Desktop\Project GST\GST_Project\GST_Project\obj\x86\Debug\GST_Project.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Project GST\GST_Project\GST_Project\obj\x86\Debug\GST_Project.FrmMain.resources
+C:\Users\ADMIN\Desktop\Project GST\GST_Project\GST_Project\obj\x86\Debug\GST_Project.frmcustomer_rec.resources
+C:\Users\ADMIN\Desktop\Project GST\GST_Project\GST_Project\obj\x86\Debug\GST_Project.frmDealersRec.resources
+C:\Users\ADMIN\Desktop\Project GST\GST_Project\GST_Project\obj\x86\Debug\GST_Project.FrmMaster.resources
+C:\Users\ADMIN\Desktop\Project GST\GST_Project\GST_Project\obj\x86\Debug\GST_Project.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Project GST\GST_Project\GST_Project\obj\x86\Debug\GST_Project.csproj.GenerateResource.Cache
+E:\GST PROJECT\GST_Project\GST_Project\bin\Debug\GST_Project.exe
+E:\GST PROJECT\GST_Project\GST_Project\bin\Debug\GST_Project.pdb
+E:\GST PROJECT\GST_Project\GST_Project\obj\x86\Debug\GST_Project.csprojResolveAssemblyReference.cache
+E:\GST PROJECT\GST_Project\GST_Project\obj\x86\Debug\GST_Project.FrmMain.resources
+E:\GST PROJECT\GST_Project\GST_Project\obj\x86\Debug\GST_Project.frmcustomer_rec.resources
+E:\GST PROJECT\GST_Project\GST_Project\obj\x86\Debug\GST_Project.frmDealersRec.resources
+E:\GST PROJECT\GST_Project\GST_Project\obj\x86\Debug\GST_Project.FrmMaster.resources
+E:\GST PROJECT\GST_Project\GST_Project\obj\x86\Debug\GST_Project.Properties.Resources.resources
+E:\GST PROJECT\GST_Project\GST_Project\obj\x86\Debug\GST_Project.csproj.GenerateResource.Cache
+E:\GST_Project\GST_Project\bin\Debug\mysql.data.dll
+E:\GST_Project\GST_Project\obj\x86\Debug\GST_Project.frmSelling.resources
+E:\GST_Project\GST_Project\GST_Project\obj\x86\Debug\GST_Project.exe
+E:\GST_Project\GST_Project\GST_Project\obj\x86\Debug\GST_Project.pdb
+E:\GST_Project\GST_Project\GST_Project\bin\Debug\GST_Project.exe
+E:\GST_Project\GST_Project\GST_Project\bin\Debug\GST_Project.pdb
+E:\GST_Project\GST_Project\GST_Project\obj\x86\Debug\GST_Project.csprojResolveAssemblyReference.cache
+E:\GST_Project\GST_Project\GST_Project\obj\x86\Debug\GST_Project.FrmMain.resources
+E:\GST_Project\GST_Project\GST_Project\obj\x86\Debug\GST_Project.FrmReporting.resources
+E:\GST_Project\GST_Project\GST_Project\obj\x86\Debug\GST_Project.frmSelling.resources
+E:\GST_Project\GST_Project\GST_Project\obj\x86\Debug\GST_Project.frmcustomer_rec.resources
+E:\GST_Project\GST_Project\GST_Project\obj\x86\Debug\GST_Project.frmDealersRec.resources
+E:\GST_Project\GST_Project\GST_Project\obj\x86\Debug\GST_Project.FrmMaster.resources
+E:\GST_Project\GST_Project\GST_Project\obj\x86\Debug\GST_Project.Properties.Resources.resources
+E:\GST_Project\GST_Project\GST_Project\obj\x86\Debug\GST_Project.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Desktop\Project GST\GST_Project\GST_Project\obj\x86\Debug\GST_Project.FrmReporting.resources
+C:\Users\ADMIN\Desktop\Project GST\GST_Project\GST_Project\obj\x86\Debug\GST_Project.frmSelling.resources
+C:\Users\ADMIN\Desktop\Project GST\GST_Project\GST_Project\obj\x86\Debug\GST_Project.FrmStok.resources
+C:\Users\ADMIN\Desktop\Project GST\GST_Project\GST_Project\obj\x86\Debug\GST_Project.FrmPurchising.resources
+E:\GST_Project\GST_Project\obj\x86\Debug\GST_Project.FrmPurchising.resources
+E:\GST_Project\GST_Project\obj\x86\Debug\GST_Project.FrmReporting.resources
+E:\GST_Project\GST_Project\obj\x86\Debug\GST_Project.FrmStok.resources
+G:\GST_Project\GST_Project\obj\x86\Debug\GST_Project.exe
+G:\GST_Project\GST_Project\obj\x86\Debug\GST_Project.pdb
+G:\GST_Project\GST_Project\obj\x86\Debug\GST_Project.csprojResolveAssemblyReference.cache
+G:\GST_Project\GST_Project\obj\x86\Debug\GST_Project.FrmMain.resources
+G:\GST_Project\GST_Project\obj\x86\Debug\GST_Project.FrmPurchising.resources
+G:\GST_Project\GST_Project\obj\x86\Debug\GST_Project.FrmReporting.resources
+G:\GST_Project\GST_Project\obj\x86\Debug\GST_Project.frmSelling.resources
+G:\GST_Project\GST_Project\obj\x86\Debug\GST_Project.frmcustomer_rec.resources
+G:\GST_Project\GST_Project\obj\x86\Debug\GST_Project.frmDealersRec.resources
+G:\GST_Project\GST_Project\obj\x86\Debug\GST_Project.FrmMaster.resources
+G:\GST_Project\GST_Project\obj\x86\Debug\GST_Project.FrmStok.resources
+G:\GST_Project\GST_Project\obj\x86\Debug\GST_Project.Properties.Resources.resources
+G:\GST_Project\GST_Project\obj\x86\Debug\GST_Project.csproj.GenerateResource.Cache
+D:\college masti\BCA\GST_Project\GST_Project\obj\x86\Debug\GST_Project.exe
+D:\college masti\BCA\GST_Project\GST_Project\obj\x86\Debug\GST_Project.csprojResolveAssemblyReference.cache
+D:\college masti\BCA\GST_Project\GST_Project\obj\x86\Debug\GST_Project.FrmMain.resources
+D:\college masti\BCA\GST_Project\GST_Project\obj\x86\Debug\GST_Project.FrmPurchising.resources
+D:\college masti\BCA\GST_Project\GST_Project\obj\x86\Debug\GST_Project.FrmReporting.resources
+D:\college masti\BCA\GST_Project\GST_Project\obj\x86\Debug\GST_Project.frmSelling.resources
+D:\college masti\BCA\GST_Project\GST_Project\obj\x86\Debug\GST_Project.frmcustomer_rec.resources
+D:\college masti\BCA\GST_Project\GST_Project\obj\x86\Debug\GST_Project.frmDealersRec.resources
+D:\college masti\BCA\GST_Project\GST_Project\obj\x86\Debug\GST_Project.FrmMaster.resources
+D:\college masti\BCA\GST_Project\GST_Project\obj\x86\Debug\GST_Project.FrmStok.resources
+D:\college masti\BCA\GST_Project\GST_Project\obj\x86\Debug\GST_Project.Properties.Resources.resources
+D:\college masti\BCA\GST_Project\GST_Project\obj\x86\Debug\GST_Project.csproj.GenerateResource.Cache
+D:\college\BCA\Project\GST Billing and Reporting\GST Billing and Reporting\GST_Project\obj\x86\Debug\GST_Project.exe
+D:\college\BCA\Project\GST Billing and Reporting\GST Billing and Reporting\GST_Project\obj\x86\Debug\GST_Project.csprojResolveAssemblyReference.cache
+D:\college\BCA\Project\GST Billing and Reporting\GST Billing and Reporting\GST_Project\obj\x86\Debug\GST_Project.FrmMain.resources
+D:\college\BCA\Project\GST Billing and Reporting\GST Billing and Reporting\GST_Project\obj\x86\Debug\GST_Project.FrmPurchising.resources
+D:\college\BCA\Project\GST Billing and Reporting\GST Billing and Reporting\GST_Project\obj\x86\Debug\GST_Project.FrmReporting.resources
+D:\college\BCA\Project\GST Billing and Reporting\GST Billing and Reporting\GST_Project\obj\x86\Debug\GST_Project.frmSelling.resources
+D:\college\BCA\Project\GST Billing and Reporting\GST Billing and Reporting\GST_Project\obj\x86\Debug\GST_Project.frmcustomer_rec.resources
+D:\college\BCA\Project\GST Billing and Reporting\GST Billing and Reporting\GST_Project\obj\x86\Debug\GST_Project.frmDealersRec.resources
+D:\college\BCA\Project\GST Billing and Reporting\GST Billing and Reporting\GST_Project\obj\x86\Debug\GST_Project.FrmMaster.resources
+D:\college\BCA\Project\GST Billing and Reporting\GST Billing and Reporting\GST_Project\obj\x86\Debug\GST_Project.FrmStok.resources
+D:\college\BCA\Project\GST Billing and Reporting\GST Billing and Reporting\GST_Project\obj\x86\Debug\GST_Project.Properties.Resources.resources
+D:\college\BCA\Project\GST Billing and Reporting\GST Billing and Reporting\GST_Project\obj\x86\Debug\GST_Project.csproj.GenerateResource.Cache
+E:\GST Billing and Reporting\GST_Project\obj\x86\Debug\GST_Project.exe
+E:\GST Billing and Reporting\GST_Project\obj\x86\Debug\GST_Project.csprojResolveAssemblyReference.cache
+E:\GST Billing and Reporting\GST_Project\obj\x86\Debug\GST_Project.FrmMain.resources
+E:\GST Billing and Reporting\GST_Project\obj\x86\Debug\GST_Project.FrmPurchising.resources
+E:\GST Billing and Reporting\GST_Project\obj\x86\Debug\GST_Project.FrmReporting.resources
+E:\GST Billing and Reporting\GST_Project\obj\x86\Debug\GST_Project.frmSelling.resources
+E:\GST Billing and Reporting\GST_Project\obj\x86\Debug\GST_Project.frmcustomer_rec.resources
+E:\GST Billing and Reporting\GST_Project\obj\x86\Debug\GST_Project.frmDealersRec.resources
+E:\GST Billing and Reporting\GST_Project\obj\x86\Debug\GST_Project.FrmMaster.resources
+E:\GST Billing and Reporting\GST_Project\obj\x86\Debug\GST_Project.FrmStok.resources
+E:\GST Billing and Reporting\GST_Project\obj\x86\Debug\GST_Project.Properties.Resources.resources
+E:\GST Billing and Reporting\GST_Project\obj\x86\Debug\GST_Project.csproj.GenerateResource.Cache
